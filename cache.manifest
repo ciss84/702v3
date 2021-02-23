@@ -2,6 +2,7 @@ CACHE MANIFEST
 fonc.js
 index.html
 kex.js
+netcat.html
 payload702.html
 payload702b.html
 script.js
@@ -26,7 +27,6 @@ img\ps4debug.png
 img\ps4debug1.png
 img\restore.png
 img\usb.png
-netcat.html
 PAYLOADS\arabic-guy100.js
 PAYLOADS\arabic-guy127.js
 PAYLOADS\arabic-guy132.js
